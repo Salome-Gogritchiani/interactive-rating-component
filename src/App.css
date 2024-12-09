@@ -1,0 +1,12 @@
+/* src/App.css */
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #141519;
+  font-family: "Overpass", sans-serif;
+}
+
+
