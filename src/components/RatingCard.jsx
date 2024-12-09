@@ -1,6 +1,6 @@
 // src/components/RatingCard.js
 import React from "react";
-import "./RatingCard.css";
+import "./ratingCard.css";
 
 export default function RatingCard({ rating, setRating, submitRating }) {
   const handleRating = (value) => {
