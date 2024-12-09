@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useState } from "react";
-import RatingCard from "./components/RatingCard";
-import ThankYouCard from "./components/ThankYouCard";
+import RatingCard from "./components/RatingCard.jsx";
+import ThankYouCard from "./components/ThankYouCard.jsx";
 import "./App.css";
 
 function App() {
