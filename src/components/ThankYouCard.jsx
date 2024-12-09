@@ -1,6 +1,6 @@
 // src/components/ThankYouCard.js
 import React from "react";
-import "./thankYouCard.css";
+import "./ThankYouCard.css";
 
 export default function ThankYouCard({ rating }) {
   return (
